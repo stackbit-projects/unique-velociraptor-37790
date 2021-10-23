@@ -10,7 +10,7 @@ sections:
       - label: Search Data
         url: /features
         style: primary
-      - label: Contact Us
+      - label: Github
         url: /contact
         style: secondary
     align: left
