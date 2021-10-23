@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: A Collaborative Data-First Knowledge Grap
+    title: A Collaborative Data-First Knowledge Graph
     subtitle: >-
       Explore and visualize data from hundreds of sources. Contribute metadata
       and data transformations to improve our open data for everyone.
