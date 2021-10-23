@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: The Collaborative Data Graph
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Explore and visualize data from hundreds of sources. Contribute metadata
+      and data transformations to improve our open data for everyone.
     actions:
       - label: Learn More
         url: /features
