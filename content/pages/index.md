@@ -7,7 +7,7 @@ sections:
       Explore and visualize data from hundreds of sources. Contribute metadata
       and data transformations to improve our open data for everyone.
     actions:
-      - label: Learn More
+      - label: Search Data
         url: /features
         style: primary
       - label: Contact Us
